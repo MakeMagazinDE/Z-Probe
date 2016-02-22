@@ -13,6 +13,8 @@ Die Schaltung kann mit +5V oder +12V bis +24V versorgt werden. Bei 5-V-Versorgun
 
 Üblicherweise sollte JP1 für eine negative Logik (Ausgang schaltet bei Berührung nach Masse) überbrückt sein. Sollte die CNC-Steuerung eine positive Logik (Ausgang normal auf Masse, bei Berührung offen bzw. "high") verlangen, ist stattdessen JP2 zu überbrücken.
 
+Layout für doppelseitige Platine als Gerber- und PDF.Dateien. Infprmationen für Selberätzer: Rückseite vollständig Kupfer als Massefläche, zwei Durchkontaktierungen aus Kupferdraht nötig. Bohrungen für Steckverbinder ggf. auf Rückseite freikratzen.
+
 Bitte beachten Sie den Artikel in Make: 1/2016.
 
 Carsten Meyer, Redaktion Make:
