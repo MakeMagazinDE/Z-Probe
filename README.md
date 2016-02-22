@@ -13,7 +13,7 @@ Die Schaltung kann mit +5V oder +12V bis +24V versorgt werden. Bei 5-V-Versorgun
 
 Üblicherweise sollte JP1 für eine negative Logik (Ausgang schaltet bei Berührung nach Masse) überbrückt sein. Sollte die CNC-Steuerung eine positive Logik (Ausgang normal auf Masse, bei Berührung offen bzw. "high") verlangen, ist stattdessen JP2 zu überbrücken.
 
-Layout für doppelseitige Platine als Gerber- und PDF.Dateien. Infprmationen für Selberätzer: Rückseite vollständig Kupfer als Massefläche, zwei Durchkontaktierungen aus Kupferdraht nötig. Bohrungen für Steckverbinder ggf. auf Rückseite freikratzen.
+Layout für doppelseitige Platine als Gerber- und PDF.Dateien. Informationen für Selberätzer: Rückseite vollständig Kupfer als Massefläche, zwei Durchkontaktierungen aus Kupferdraht nötig. Ggf. zwei Bohrungen für Steckverbinder auf Rückseite freikratzen.
 
 Z-Probe-Eingang bei der aktuellen Version der GRBL-JOG-Firmware ist Pin 5 (PB4, SPI SS) des ATmega644. Dieser Eingang ist an PL7 (ISP) Pin 3 zugänglich. Für erhöhte Störsicherheit sollte ein Pull-up-Widerstand 4k7 nach +5V und ggf. ein Eingangsfilter wie an den anderen Schalter-Eingängen vorgesehen werden. Eine überarbeitete GRBL-JOG-Platine ist in Planung.
 
