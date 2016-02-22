@@ -1,3 +1,9 @@
+![GitHub Logo](http://www.heise.de/make/icons/make_logo.png)
+
+Maker Media GmbH und c't, Heise Zeitschriften Verlag
+
+***
+
 # Z-Probe
 Z-Längentaster für CNC-Maschinen, kapazitiv
 
