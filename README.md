@@ -15,4 +15,4 @@ Die Schaltung kann mit +5V oder +12V bis +24V versorgt werden. Bei 5-V-Versorgun
 
 Bitte beachten Sie den Artikel in Make: 1/2016.
 
-Carsten Meyer
+Carsten Meyer, Redaktion Make:
